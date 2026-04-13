@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/In Lab 5/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab 2/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab 3/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab 4/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab 5b/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab 6/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab 7 Strings/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab HW 3/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab HW 5/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab HW2/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab4b/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/caesar/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.14 (CS Lab)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
