@@ -76,3 +76,13 @@ def int_to_str(n):
 if __name__ == '__main__':
     while True:
         num = int(input("Enter an integer to pronounce (0-999999999999, any negative value to exit):\n"))
+
+        if num < 0:
+            print("kthxbye!")
+            break
+
+        if num > 999_999_999_999:
+            print("Cannot be over 999999999999, try again:")
+            continue
+
+        print(int_to_str(num))
